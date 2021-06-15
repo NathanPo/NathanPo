@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋    ![](https://komarev.com/ghpvc/?username=NathanPo&color=green)
+
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanPo&show_icons=true&theme=radical)
 
 <!--
 **NathanPo/NathanPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
